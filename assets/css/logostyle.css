@@ -1,0 +1,17 @@
+/* styles.css */
+
+.container {
+  position: relative;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+.footer-logo {
+  width: 17px;
+  height: 17px;
+}
